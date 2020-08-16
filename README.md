@@ -2,16 +2,12 @@
 Track your workout progress and start crushing those personal records with Workout Tracker!
 
 ## Deployed Link
-https://jaylanfitnesstracker.herokuapp.com/
-  
-## License
-  MIT License [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+https://boiling-badlands-66162.herokuapp.com/
       
 ## Contributors
   Jaylan Wienckowski
   
-## Tests
-      
+
   
 ## Questions   [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
