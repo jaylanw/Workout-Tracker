@@ -2,6 +2,8 @@ const express = require("express");
 const mongoose = require("mongoose");
 const logger = require("morgan");
 
+
+
 const app = express();
 app.use(logger("dev"));
 
@@ -19,7 +21,6 @@ mongoose.connect(MONGODB_URI,{
     useUnifiedTopology: true,
     useFindAndModify:false
 });
-
 
 
 require("./routes/htmlRoutes")(app);
